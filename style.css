@@ -1,0 +1,17 @@
+html{
+    background-color: rgb(216, 220, 255);
+}
+
+.game {
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(195, 141, 148) ;
+    color: rgb(255, 255, 255);
+}
+
+#consignes {
+    font-family: "Bebas neue", Verdana, sans-serif;
+    font-size: xx-large;
+}
+
